@@ -14,7 +14,7 @@ CC1101 --> ESP8266
 7  MISO --> D6 (GPIO12)  
 8  GPO2 --> NC not needed  
 
-The other CC1101 example with the BME280 board added to get temperature data has the CSN pin of the CC1101 moved on the ESP8266 so that the BME280 can be accomodated.  The code for that example shows the pinout differences and the single line of code for the CSN pin that must be changed.
+The other CC1101 transmit example with the BME280 board added to get temperature data has the CSN pin of the CC1101 moved on the ESP8266 so that the BME280 can be accomodated.  The code for that example shows the pinout differences and the single line of code for the CSN pin that must be changed.  Nothing on the receiver side needs to be changed. 
 
 I found this webpage helpful for the Arduino library for CC1101 as well as the pinout:  
 https://zaitronics.com.au/blogs/guides/cc1101-guide-instruction-manual  
