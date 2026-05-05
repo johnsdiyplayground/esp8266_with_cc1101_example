@@ -2,7 +2,7 @@ I was having a lot of trouble finding working examples of CC1101 RF transceiver 
 
 I could get this CC1101 board to work with newer ESP32 boards however so I suspected it could be done on ESP8266.
 
-The biggest issue is making sure you have the pins from CC1101 going to the correct ESP8266 pins.  I have documented which pins are needed to make my example files work.
+The biggest issue is making sure you have the pins from CC1101 going to the correct ESP8266 pins.  
 
 CC1101 --> ESP8266
 1  GND --> G
