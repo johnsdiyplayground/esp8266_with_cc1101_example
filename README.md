@@ -13,3 +13,6 @@ CC1101 --> ESP8266
 6  MOSI --> D7 (GPIO13)  
 7  MISO --> D6 (GPIO12)  
 8  GPO2 --> NC not needed  
+
+I found this webpage helpful for the Arduino library for CC1101 as well as the pinout:  
+https://zaitronics.com.au/blogs/guides/cc1101-guide-instruction-manual  
