@@ -8,7 +8,7 @@ CC1101 --> ESP8266
 1  GND --> G  
 2  VCC --> 3V3 (do NOT use 5V!)  
 3  GDO0 --> NC not needed  
-4  CSN --> D1 (GPIO5) ** 
+4  CSN --> D1 (GPIO5) **   
 5  SCK --> D5 (GPIO14)  
 6  MOSI --> D7 (GPIO13)  
 7  MISO --> D6 (GPIO12)  
