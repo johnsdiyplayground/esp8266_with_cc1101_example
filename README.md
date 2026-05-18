@@ -1,4 +1,6 @@
-I was having a lot of trouble finding working examples of CC1101 RF transceiver with ESP8266 boards.  
+These examples transmit and receive "Hello" and a sequence number, as well as temperature in the second transmit example. 
+
+I was having trouble finding working examples of CC1101 RF transceiver with ESP8266 boards.  
 
 I could get my CC1101 boards to work with newer ESP32 MCUs so I suspected it could be done on ESP8266.
 
